@@ -6,7 +6,7 @@ I love software engineering because I get to build things and turn ideas into re
 #### Frontend developer based in Saudi Arabia  
 
 My main tech stack includes:
-- **React, JavaScript, HTML, CSS, and Flutter** with experience using **Django** on the backend.
+- **React, JavaScript, HTML, and CSS** with experience using **Django** on the backend.
 
    
 
